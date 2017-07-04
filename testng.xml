@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="testScripts.Google">
+        <methods>
+          <include name="Google_Search_Compare" />
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>
